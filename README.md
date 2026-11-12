@@ -1,4 +1,6 @@
-# Yradio
+# Yradio    1.9.6-1 developed by @fred181   https://forum.puppylinux.com/viewtopic.php?p=179768#p179768
+
+
 YRadio is a lightweight internet radio player for Linux. Search for stations by name or tags, select a country, or browse themed playlists to find music, news and more.  
 
 ENGLISH/ ESPAÑOL  READme /leeME
