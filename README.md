@@ -65,6 +65,7 @@ This customised PET includes the new **YRadio logo** in the application menu, th
 | Recording-folder preference | `~/.config/streamrip.conf` |
 | Application directory | `/usr/local/YRadio/` |
 | Distribution format | PET package intended for Puppy Linux and EasyOS |
+| Version 1.9.6-4 added the use of the icon in tray.- No task bar
 
 The original application identifies **fredx181** as its author. This customised package retains the application’s existing functionality and adds the new visual identity.
 
